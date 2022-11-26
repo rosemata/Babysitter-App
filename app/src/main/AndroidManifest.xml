@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bbysitter">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/bbysitter_logo"
+        android:label="bbysitter"
+        android:logo="@drawable/bbysitter_logo"
+        android:roundIcon="@drawable/bbysitter_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BbySitter">
+        <activity
+            android:name=".MainActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".Chat"
+            android:exported="false"
+            android:parentActivityName=".ProfileMatches"/>
+        <activity
+            android:name=".Reviews"
+            android:exported="false"
+            android:parentActivityName=".ReviewsDescriptionCredentials"/>
+        <activity
+            android:name=".ReviewsDescriptionCredentials"
+            android:exported="false"
+            android:parentActivityName=".ProfileMatches"/>
+        <activity
+            android:name=".ProfileMatches"
+            android:exported="false"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".MainActivity2"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+    </application>
+
+</manifest>
