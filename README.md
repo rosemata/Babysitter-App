@@ -15,6 +15,8 @@
 
 <img width="318" alt="Screenshot 2022-11-26 at 2 08 11 PM" src="https://user-images.githubusercontent.com/93716153/204107450-2c6ec458-cd5c-48d8-9143-3aa5340d93e5.png">
 
+## Swipte left/right if you don't like current matches!
+
 <img width="321" alt="Screenshot 2022-11-26 at 2 08 57 PM" src="https://user-images.githubusercontent.com/93716153/204107453-c59a252e-29dc-4d5b-aade-7910f2a7f671.png">
 
 <img width="328" alt="Screenshot 2022-11-26 at 2 09 10 PM" src="https://user-images.githubusercontent.com/93716153/204107456-373a13c3-42cb-4f9f-b388-0fb170c751e3.png">
